@@ -1,0 +1,22 @@
+<project
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <artifactId>lab-gin-parent</artifactId><groupId>lab-gin</groupId><version>0.0.1-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>lab-gin-service</artifactId>
+  <name>Lab Gin Service</name>
+
+  <dependencies>
+    <dependency><artifactId>spring-webmvc</artifactId><groupId>org.springframework</groupId></dependency>
+    <dependency><artifactId>slf4j-api</artifactId><groupId>org.slf4j</groupId></dependency>
+    <dependency><artifactId>jackson-databind</artifactId><groupId>com.fasterxml.jackson.core</groupId></dependency>
+    <dependency><artifactId>lab-gin-shared</artifactId><groupId>lab-gin</groupId></dependency>
+  </dependencies>
+
+</project>
