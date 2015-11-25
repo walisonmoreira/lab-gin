@@ -34,8 +34,7 @@
     <dependency><artifactId>gwt-user</artifactId><groupId>com.google.gwt</groupId></dependency>
     <dependency><artifactId>gwt-dev</artifactId><groupId>com.google.gwt</groupId></dependency>
     <!-- GIN -->
-	<!-- TODO Colocar dependência para o Gin. -->
-    <dependency><artifactId>gwtp-mvp-client</artifactId><groupId>com.gwtplatform</groupId></dependency>
+    <dependency><artifactId>gin</artifactId><groupId>com.google.gwt.inject</groupId></dependency>
     <!-- Dependências do próprio projeto. -->
     <dependency><artifactId>lab-gin-shared</artifactId><groupId>lab-gin</groupId></dependency>
     <dependency><artifactId>lab-gin-shared</artifactId><groupId>lab-gin</groupId><classifier>sources</classifier></dependency>
