@@ -8,3 +8,4 @@ Laboratório de testes do GIN.
 * [GWT Dependency Injection recipes using GIN](http://www.canoo.com/blog/2011/04/05/gwt-dependency-injection-recipes-using-gin/)
 * [GWT Dependency Injection recipes using GIN (II)](http://www.canoo.com/blog/2011/06/14/gwt-dependency-injection-recipes-using-gin-ii/)
 * [GWT Dependency Injection recipes using GIN (III)](http://www.canoo.com/blog/2011/06/20/gwt-dependency-injection-recipes-using-gin-iii/)
+* [StackOverflow - Injecting an instance using Gin/Guice](http://stackoverflow.com/questions/10400163/injecting-an-instance-using-gin-guice)
